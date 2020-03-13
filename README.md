@@ -1,8 +1,8 @@
 # IoT
 ---
 ## An orchestra of IoT devices which demostrate interaction to a Cloud
-
 ---
+
 ### Spaider:
 
 ### 3 Relay
